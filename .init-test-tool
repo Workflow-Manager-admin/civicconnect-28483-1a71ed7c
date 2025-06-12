@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/civicconnect-28483-1a71ed7c/civicconnect_frontend"
+}
